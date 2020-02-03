@@ -4,4 +4,4 @@
   tasks:
     - name: Print a message
       debug:
-        msg: "This is PROD v1.0"
+        msg: "This is TEST v1.0"
