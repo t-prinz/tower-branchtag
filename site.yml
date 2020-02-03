@@ -1,0 +1,7 @@
+---
+- name: Simple play
+  hosts: all
+  tasks:
+    - name: Print a message
+      debug:
+        msg: "This is PROD v1.0"
